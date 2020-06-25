@@ -146,7 +146,7 @@ $hi=$ai*0.7;
   
 <div class="container2">
 <div class="jumbotron">
-  <h1 class="display-4">Spure Design Calculation!</h1>
+  <h1 class="display-4">Ingate Design Calculation!</h1>
   <p class="lead">For Volume of Casting = <?php echo $vc;?> (mm3), Riser Volume = <?php echo $vr;?> (mm3), Coefficient of friction = <?php echo $fr;?>, Metal fluidity (k) = <?php echo $k;?>, Density = <?php echo $de;?> (kg/m3) .</p>
   <hr class="my-4">
   <p>width of ingate = <?php echo $bi;?> (mm), Height of ingate = <?php echo $hi;?> (mm)
